@@ -9,7 +9,7 @@ bsq @ 42 - Find the biggest square on a map avoinding obstacles.
 ------------/  
 /------/-----   
 
-# Final map (output) :
+# Final map (output)
 -----/\*\*\*\*\*--  
 /---/-\*\*\*\*\*-/  
 ---/--\*\*\*\*\*--  
